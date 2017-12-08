@@ -1,0 +1,13 @@
+<templateSet group="PHP">
+  <template name="crud-event" value="$this-&gt;Crud-&gt;on('', function(\Cake\Event\Event $event) {            &#10;});" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="__" value="&lt;?= __('') ?&gt;" description="__ CakePHP translation" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
