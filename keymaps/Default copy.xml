@@ -36,7 +36,9 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
-  <action id="MethodDown" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
