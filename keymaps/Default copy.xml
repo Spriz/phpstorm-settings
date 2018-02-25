@@ -42,4 +42,7 @@
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
 </keymap>
