@@ -1,0 +1,18 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '.../plugins/Edi/src/Invoices/Adapter/ReadSoftAdapter.php [www]'" />
+    <option name="defaultScopeName" value="File '.../plugins/Edi/src/Invoices/Adapter/ReadSoftAdapter.php [www]'" />
+    <option name="SEARCH_SCOPE" value="File '.../plugins/Edi/src/Invoices/Adapter/ReadSoftAdapter.php [www]'" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.js</mask>
+    <mask>*.ctp</mask>
+  </component>
+</application>

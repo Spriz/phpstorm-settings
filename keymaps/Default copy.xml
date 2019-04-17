@@ -1,5 +1,8 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="ActivateFavoritesToolWindow" />
+  <action id="CodeCleanup">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -42,7 +45,9 @@
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="ReformatCode" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="Vcs.ReformatCommitMessage" />
 </keymap>
