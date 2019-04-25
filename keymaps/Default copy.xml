@@ -33,6 +33,8 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="GotoNextElementUnderCaretUsage" />
+  <action id="GotoPrevElementUnderCaretUsage" />
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
