@@ -1,18 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="build-dev-web" type="PLAIN_TEXT" />
       <mapping pattern="stop-web-db" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="run-tests" type="PLAIN_TEXT" />
-      <mapping pattern="scripts/start-web-container" type="PLAIN_TEXT" />
       <mapping pattern="start-web-container" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern="scripts/start-web-container" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="Database/Type/LocalDecimalType" type="PLAIN_TEXT" />
       <mapping pattern="stop-dev-web" type="PLAIN_TEXT" />
       <mapping pattern="start-test-db" type="PLAIN_TEXT" />
