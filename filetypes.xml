@@ -13,11 +13,12 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="Database/Type/LocalDecimalType" type="PLAIN_TEXT" />
       <mapping pattern="stop-dev-web" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-staging" type="PLAIN_TEXT" />
       <mapping pattern="start-test-db" type="PLAIN_TEXT" />
       <mapping pattern="Projects/tab_bar/offer_button.ctp" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-staging" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping pattern="TimeEntries/index-filter-menu" type="PLAIN_TEXT" />
+      <mapping ext="po" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
